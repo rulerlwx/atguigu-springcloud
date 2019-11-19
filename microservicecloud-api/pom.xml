@@ -9,6 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <description>API公共模块</description>
+
     <artifactId>microservicecloud-api</artifactId>
 
     <dependencies>
